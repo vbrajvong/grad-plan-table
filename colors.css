@@ -1,0 +1,27 @@
+table { margin: auto; border: 3px solid #000000; width: 80%; border-spacing: 0; }
+
+td, th { border: 1px solid #000000; padding: 5px; font-family: Arial, sans-serif;}
+
+#caption {font-size: 150%;
+font-weight: bold;}
+
+td {text-align: center;}
+
+#total {text-align: right; color:cornflowerblue;}
+
+#column1 {background-color: aquamarine;
+font-weight: bold;}
+
+#row1 {color:cornflowerblue;}
+
+#clear {background-color: #FFFFFF;}
+
+footer {font-size: 75%;
+text-align: center;
+font-family: Arial, sans-serif;}
+
+tr:nth-of-type(odd) { background-color: cornsilk;}
+
+tr:nth-of-type(2) {background-color: cornsilk;}
+
+p {font-family: Arial, sans-serif;}
